@@ -1,0 +1,18 @@
+{"nombre":"la patateria",
+				  "telefono":8899999,
+				  "geo":{ "lat": 3.055926, "lng": -75.485854 }},
+				  {"nombre":"la patateria2",
+				  "telefono":8999999,
+				  "geo":{ "lat": 3.055926, "lng": -75.485854 }},
+				  {"nombre":"la patateria3",
+				  "telefono":9999999,
+				  "geo":{ "lat": 3.055926, "lng": -75.485854 }}
+				  {"nombre":"la patateria4",
+				  "telefono":8899991,
+				  "geo":{ "lat": 3.055926, "lng": -75.485854 }},
+				  {"nombre":"la patateria5",
+				  "telefono":8999991,
+				  "geo":{ "lat": 3.055926, "lng": -75.485854 }},
+				  {"nombre":"la patateria6",
+				  "telefono":9999991,
+				  "geo":{ "lat": 3.055926, "lng": -75.485854 }}
